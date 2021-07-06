@@ -3,7 +3,9 @@ Dit is een repository met materiaal voor de PMML-workshop bij het Centraal Justi
 ### Installatie
 De code is ontwikkeld in Visual Studio Code. Het is een Maven project. 
 
-Ik heb Java Extension pack 0.17.0, Java SDE development kit 16.0.1  geinstalleerd.
+Ik heb in Visual Studio Code de Java Extension pack 0.17.0 geïnstalleerd. 
+
+Ik heb Java SDE development kit 16.0.1  geinstalleerd.
 
 Ik heb de volgende directories toegevoegd aan de `PATH` omgevingsvariabele: `C:\Program Files\Java\jdk-16.0.1\bin` en `%MAVEN_HOME%\bin`.
 
