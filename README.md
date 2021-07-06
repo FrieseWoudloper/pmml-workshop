@@ -1,2 +1,1 @@
-# pmml-workshop
-Dit is een repository met materiaal voor een PMML workshop. PMML is een XML-standaard voor het uitwisselen van machine learning modellen.
+Dit is een repository met materiaal voor de PMML-workshop bij het Centraal Justitieel Incassobureau (CJIB) in de zomer van 2021. PMML is een XML-standaard voor het uitwisselen van machine learning modellen.
